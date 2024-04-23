@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE4D29A-17AD-4DF8-826D-7892248DEC88}|CountyAndCities\\CountyAndCities.csproj|f:\\dotnetallmodule\\module-12-angular\\mamfile\\countryandcitiesproject\\countyandcities\\countyandcities\\repository\\icountrycityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE4D29A-17AD-4DF8-826D-7892248DEC88}|CountyAndCities\\CountyAndCities.csproj|solutionrelative:countyandcities\\repository\\icountrycityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE4D29A-17AD-4DF8-826D-7892248DEC88}|CountyAndCities\\CountyAndCities.csproj|f:\\dotnetallmodule\\module-12-angular\\mamfile\\countryandcitiesproject\\countyandcities\\countyandcities\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE4D29A-17AD-4DF8-826D-7892248DEC88}|CountyAndCities\\CountyAndCities.csproj|solutionrelative:countyandcities\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE4D29A-17AD-4DF8-826D-7892248DEC88}|CountyAndCities\\CountyAndCities.csproj|f:\\dotnetallmodule\\module-12-angular\\mamfile\\countryandcitiesproject\\countyandcities\\countyandcities\\repository\\countrycityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE4D29A-17AD-4DF8-826D-7892248DEC88}|CountyAndCities\\CountyAndCities.csproj|solutionrelative:countyandcities\\repository\\countrycityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE4D29A-17AD-4DF8-826D-7892248DEC88}|CountyAndCities\\CountyAndCities.csproj|f:\\dotnetallmodule\\module-12-angular\\mamfile\\countryandcitiesproject\\countyandcities\\countyandcities\\models\\countrywithcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE4D29A-17AD-4DF8-826D-7892248DEC88}|CountyAndCities\\CountyAndCities.csproj|solutionrelative:countyandcities\\models\\countrywithcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE4D29A-17AD-4DF8-826D-7892248DEC88}|CountyAndCities\\CountyAndCities.csproj|f:\\dotnetallmodule\\module-12-angular\\mamfile\\countryandcitiesproject\\countyandcities\\countyandcities\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE4D29A-17AD-4DF8-826D-7892248DEC88}|CountyAndCities\\CountyAndCities.csproj|solutionrelative:countyandcities\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICountryCityRepo.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\CountyAndCities\\Repository\\ICountryCityRepo.cs",
+              "RelativeDocumentMoniker": "CountyAndCities\\Repository\\ICountryCityRepo.cs",
+              "ToolTip": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\CountyAndCities\\Repository\\ICountryCityRepo.cs",
+              "RelativeToolTip": "CountyAndCities\\Repository\\ICountryCityRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:20:58.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryCityRepo.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\CountyAndCities\\Repository\\CountryCityRepo.cs",
+              "RelativeDocumentMoniker": "CountyAndCities\\Repository\\CountryCityRepo.cs",
+              "ToolTip": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\CountyAndCities\\Repository\\CountryCityRepo.cs",
+              "RelativeToolTip": "CountyAndCities\\Repository\\CountryCityRepo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:20:24.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Country.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\CountyAndCities\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "CountyAndCities\\Models\\Country.cs",
+              "ToolTip": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\CountyAndCities\\Models\\Country.cs",
+              "RelativeToolTip": "CountyAndCities\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:05:33.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryWithCities.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\CountyAndCities\\Models\\CountryWithCities.cs",
+              "RelativeDocumentMoniker": "CountyAndCities\\Models\\CountryWithCities.cs",
+              "ToolTip": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\CountyAndCities\\Models\\CountryWithCities.cs",
+              "RelativeToolTip": "CountyAndCities\\Models\\CountryWithCities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:58:37.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\CountyAndCities\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "CountyAndCities\\Controllers\\CityController.cs",
+              "ToolTip": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\CountyAndCities\\Controllers\\CityController.cs",
+              "RelativeToolTip": "CountyAndCities\\Controllers\\CityController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwD8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T14:48:14.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

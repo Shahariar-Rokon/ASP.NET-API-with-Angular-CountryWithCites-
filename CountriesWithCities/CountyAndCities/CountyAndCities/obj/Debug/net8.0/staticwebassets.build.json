@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "kL0iZAG1lvCoEOm6+jmor7u0ODYMTLbO/60IIP/QLik=",
+  "Source": "CountyAndCities",
+  "BasePath": "_content/CountyAndCities",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CountyAndCities\\wwwroot",
+      "Source": "CountyAndCities",
+      "ContentRoot": "F:\\DotNetAllModule\\Module-12-Angular\\MamFile\\CountryAndCitiesProject\\CountyAndCities\\CountyAndCities\\wwwroot\\",
+      "BasePath": "_content/CountyAndCities",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
